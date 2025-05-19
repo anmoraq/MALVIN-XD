@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+BOT_NAME: process.env.BOT_NAME || "@mon's product..😂",
 // add bot namw here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -62,13 +62,13 @@ MODE: process.env.MODE || "public",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "255682217364",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "@mon....",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || " *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+              DESCRIPTION: process.env.DESCRIPTION || " *© hii..👋*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -103,7 +103,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "255682217364",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
